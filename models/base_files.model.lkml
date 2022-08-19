@@ -1,4 +1,4 @@
-connection: "base_files"
+connection: "@{connection}"
 
 # include all the views
 include: "/views/**/*.view"
