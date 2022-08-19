@@ -1,5 +1,5 @@
 view: shopify_countries {
-  sql_table_name: `user_david_t0jn.shopify_countries`
+  sql_table_name: `@{schema}.shopify_countries`
     ;;
   drill_fields: [id]
 

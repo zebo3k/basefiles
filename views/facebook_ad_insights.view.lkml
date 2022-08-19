@@ -1,5 +1,5 @@
 view: facebook_ad_insights {
-  sql_table_name: `user_david_t0jn.facebook_ad_insights`
+  sql_table_name: `@{connection}.@{schema}.facebook_ad_insights`
     ;;
 
   dimension: account_id {

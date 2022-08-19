@@ -1,5 +1,5 @@
 view: shopify_customers {
-  sql_table_name: `user_david_t0jn.shopify_customers`
+  sql_table_name: `@{schema}.shopify_customers`
     ;;
   drill_fields: [id]
 
